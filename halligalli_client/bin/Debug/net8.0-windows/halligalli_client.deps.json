@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "halligalli_client/1.0.0": {
+        "runtime": {
+          "halligalli_client.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "halligalli_client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

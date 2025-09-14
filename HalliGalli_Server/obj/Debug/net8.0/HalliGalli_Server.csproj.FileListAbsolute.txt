@@ -1,0 +1,14 @@
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\bin\Debug\net8.0\HalliGalli_Server.exe
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\bin\Debug\net8.0\HalliGalli_Server.deps.json
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\bin\Debug\net8.0\HalliGalli_Server.runtimeconfig.json
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\bin\Debug\net8.0\HalliGalli_Server.dll
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\bin\Debug\net8.0\HalliGalli_Server.pdb
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.AssemblyInfoInputs.cache
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.AssemblyInfo.cs
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.csproj.CoreCompileInputs.cache
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.dll
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\refint\HalliGalli_Server.dll
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.pdb
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\HalliGalli_Server.genruntimeconfig.cache
+C:\Users\DSO11\Downloads\HalliGalli_Server-master\HalliGalli_Server-master\HalliGalli_Server\obj\Debug\net8.0\ref\HalliGalli_Server.dll
